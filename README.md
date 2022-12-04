@@ -23,7 +23,7 @@ Contestando las preguntas:
 + Al predecir con este modelo para test, ¿Cúal es el score obtenido? (guardar el csv con predicciones para entregarlo después)
 + ¿Qué features son los más importantes para predecir con el mejor modelo? Graficar.
 
-PARTE III (RandomForest.ipynb y XGBoost.ipynb): 
+## PARTE III (RandomForest.ipynb y XGBoost.ipynb): 
 Se entrenaron 2 modelos, RandomForest y XGBoost, con búsqueda de hiperparametros. Los modelos deben cumplen las siguientes condiciones:
 
 + Se uso  top-2 accuracy como métrica de validación.
